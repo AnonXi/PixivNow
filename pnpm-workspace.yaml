@@ -7,3 +7,9 @@ allowBuilds:
 
 minimumReleaseAge: 0
 minimumReleaseAgeStrict: false
+
+overrides:
+  '@intlify/shared': '11.4.10'
+  '@intlify/core-base': '11.4.10'
+  '@intlify/message-compiler': '11.4.10'
+  '@intlify/devtools-types': '11.4.10'
